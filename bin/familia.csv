@@ -1,0 +1,16 @@
+id,name,last_name,gender,age,id_boss,is_dead,in_jail,was_boss,is_boss
+1,Vito,Corleone,H,68,0,0,0,0,1
+2,Santino,Corleone,H,45,1,1,0,0,0
+3,Michael,Corleone,H,40,1,0,0,0,0
+4,Fredo,Corleone,H,43,2,0,1,0,0
+5,Connie,Corleone,M,38,2,0,0,0,0
+6,Tom,Hagen,H,44,3,0,0,0,0
+7,Kay,Adams,M,37,3,0,0,0,0
+8,Anthony,Corleone,H,20,4,0,0,0,0
+9,Lucia,Corleone,M,22,4,0,0,0,0
+10,Vincent,Mancini,H,28,5,0,0,0,0
+11,Mary,Corleone,M,19,5,1,0,0,0
+12,Carlo,Rizzi,H,30,6,0,1,0,0
+13,Sonny,Junior,H,25,6,0,0,0,0
+14,Francesca,Corleone,M,24,7,0,0,0,0
+15,Kathryn,Corleone,M,24,7,0,0,0,0
